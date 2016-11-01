@@ -1,2 +1,2 @@
 # AntCleaner
-Powershell script to clean your aunt old computer
+A batch script to clean your aunt's old computer from ants.
